@@ -1,6 +1,21 @@
 [
   {
     "_id": {
+      "$oid": "49e7df6cfad4775bb2e9093c"
+    },
+    "title": "Megadeth",
+    "resume": "Megadeth is an American thrash metal band",
+    "text": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by guitarist Dave Mustaine and former bassist David Ellefson. Known for their technically complex guitar work and musicianship, Megadeth is one of the big four of American thrash metal along with Metallica, Anthrax, and Slayer, responsible for the genre's development and popularization. Their music features complex arrangements and fast rhythm sections, and lyrical themes of death, war, politics, personal relationships, and religion.",
+    "tags": ["trash", "heavy metal"],
+    "related-links": ["https://en.wikipedia.org/wiki/Megadeth"],
+    "author": "Mr. C.",
+    "date": {
+      "$date": "2015-10-18T23:10:36.305Z"
+    }
+  },
+
+  {
+    "_id": {
       "$oid": "59e7df6cfad4775bb2e9093c"
     },
     "title": "AC/DC",
@@ -13,7 +28,7 @@
     ],
     "author": "Mr. E.",
     "date": {
-      "$date": "2017-10-18T23:10:36.305Z"
+      "$date": "2021-03-18T23:10:36.305Z"
     }
   },
   {
@@ -55,7 +70,7 @@
     "related-links": ["https://en.wikipedia.org/wiki/Queen_(band)"],
     "author": "Mr. D.",
     "date": {
-      "$date": "2020-01-02T14:19:02.755Z"
+      "$date": "2021-01-02T14:19:02.755Z"
     }
   }
 ]
