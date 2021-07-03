@@ -1,0 +1,14 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "undertanding react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Enrique Molinari",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}

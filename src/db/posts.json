@@ -1,0 +1,61 @@
+[
+  {
+    "_id": {
+      "$oid": "59e7df6cfad4775bb2e9093c"
+    },
+    "title": "AC/DC",
+    "resume": "Best rock band ever...",
+    "text": "AC/DC are an Australian rock band formed in Sydney in 1973 by Scottish-born brothers Malcolm and Angus Young. Their music has been variously described as hard rock, blues rock, and heavy metal,but the band themselves call it simply rock and roll",
+    "tags": ["rock", "metal"],
+    "related-links": [
+      "http://www.acdc.com/",
+      "https://en.wikipedia.org/wiki/AC/DC"
+    ],
+    "author": "Mr. E.",
+    "date": {
+      "$date": "2017-10-18T23:10:36.305Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "52r7e0b7fad4775bfde9625e"
+    },
+    "title": "Ramones",
+    "resume": "Ramones were an American punk rock band",
+    "text": "Ramones were an American punk rock band that formed in the New York City neighborhood of Forest Hills, Queens, in 1974. They are often cited as the first true punk rock group. Despite achieving only limited commercial success initially, the band was highly influential in the United States, Argentina, Brazil and most of South America, as well as Europe, including the United Kingdom, the Netherlands, Germany, Sweden and Belgium.",
+    "tags": ["punk", "rock"],
+    "related-links": ["https://en.wikipedia.org/wiki/Ramones"],
+    "author": "Mr. E.",
+    "date": {
+      "$date": "2018-01-02T14:19:02.755Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "54r7e0b7fad4775bfde9625e"
+    },
+    "title": "Iron Maiden",
+    "resume": "Iron Maiden are an English heavy metal band",
+    "text": "Iron Maiden are an English heavy metal band formed in Leyton, East London, in 1975 by bassist and primary songwriter Steve Harris. The band's discography has grown to 40 albums, including 16 studio albums, 13 live albums, four EPs, and seven compilations. They have also released 45 singles and 20 video albums. Two electronic games have been released with Iron Maiden soundtracks, and the band's music is featured in a number of other video games.",
+    "tags": ["heavy metal"],
+    "related-links": ["https://en.wikipedia.org/wiki/Iron_Maiden"],
+    "author": "Mr. C.",
+    "date": {
+      "$date": "2019-01-02T14:19:02.755Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "51r7e0b7fad4775bfde9625e"
+    },
+    "title": "Queen",
+    "resume": "Queen are a British rock band",
+    "text": "Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals) and John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.",
+    "tags": ["rock"],
+    "related-links": ["https://en.wikipedia.org/wiki/Queen_(band)"],
+    "author": "Mr. D.",
+    "date": {
+      "$date": "2020-01-02T14:19:02.755Z"
+    }
+  }
+]
