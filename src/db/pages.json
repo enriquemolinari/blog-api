@@ -3,8 +3,8 @@
     "_id": {
       "$oid": "59ea5578fad4770f3bb0df1c"
     },
-    "title": "About Music, Rock and Bands !",
-    "text": "This is just a fake blog about Rock Bands that I love, but just to demonstrate how to build this using React.",
+    "title": "About Rock Music and Bands !",
+    "text": "This is a fake blog about the Rock Bands that I love. But just to demonstrate how to build this using React.",
     "author": "My Self",
     "date": {
       "$date": "2014-12-20T19:58:48.408Z"

@@ -92,7 +92,16 @@ const init = async () => {
       let ordered = posts.sort((a, b) => {
         return new Date(b.date.$date) - new Date(a.date.$date);
       });
-      return ordered.slice(0, 4);
+
+      let result = [];
+      ordered.slice(0, 4).map((element) => {
+        result.push({
+          _id: { $oid: element._id.$oid },
+          title: element.title,
+          resume: element.resume,
+        });
+      });
+      return result;
     },
   });
 
