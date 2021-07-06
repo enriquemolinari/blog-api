@@ -7,7 +7,7 @@
     "resume": "Megadeth is an American thrash metal band",
     "text": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by guitarist Dave Mustaine and former bassist David Ellefson. Known for their technically complex guitar work and musicianship, Megadeth is one of the big four of American thrash metal along with Metallica, Anthrax, and Slayer, responsible for the genre's development and popularization. Their music features complex arrangements and fast rhythm sections, and lyrical themes of death, war, politics, personal relationships, and religion.",
     "tags": ["trash", "heavy metal"],
-    "related-links": ["https://en.wikipedia.org/wiki/Megadeth"],
+    "relatedlinks": ["https://en.wikipedia.org/wiki/Megadeth"],
     "author": "Mr. C.",
     "date": {
       "$date": "2015-10-18T23:10:36.305Z"
@@ -22,7 +22,7 @@
     "resume": "Best rock band ever...",
     "text": "AC/DC are an Australian rock band formed in Sydney in 1973 by Scottish-born brothers Malcolm and Angus Young. Their music has been variously described as hard rock, blues rock, and heavy metal,but the band themselves call it simply rock and roll",
     "tags": ["rock", "metal"],
-    "related-links": [
+    "relatedlinks": [
       "http://www.acdc.com/",
       "https://en.wikipedia.org/wiki/AC/DC"
     ],
@@ -39,7 +39,7 @@
     "resume": "Ramones were an American punk rock band",
     "text": "Ramones were an American punk rock band that formed in the New York City neighborhood of Forest Hills, Queens, in 1974. They are often cited as the first true punk rock group. Despite achieving only limited commercial success initially, the band was highly influential in the United States, Argentina, Brazil and most of South America, as well as Europe, including the United Kingdom, the Netherlands, Germany, Sweden and Belgium.",
     "tags": ["punk", "rock"],
-    "related-links": ["https://en.wikipedia.org/wiki/Ramones"],
+    "relatedlinks": ["https://en.wikipedia.org/wiki/Ramones"],
     "author": "Mr. E.",
     "date": {
       "$date": "2018-01-02T14:19:02.755Z"
@@ -53,7 +53,7 @@
     "resume": "Iron Maiden are an English heavy metal band",
     "text": "Iron Maiden are an English heavy metal band formed in Leyton, East London, in 1975 by bassist and primary songwriter Steve Harris. The band's discography has grown to 40 albums, including 16 studio albums, 13 live albums, four EPs, and seven compilations. They have also released 45 singles and 20 video albums. Two electronic games have been released with Iron Maiden soundtracks, and the band's music is featured in a number of other video games.",
     "tags": ["heavy metal"],
-    "related-links": ["https://en.wikipedia.org/wiki/Iron_Maiden"],
+    "relatedlinks": ["https://en.wikipedia.org/wiki/Iron_Maiden"],
     "author": "Mr. C.",
     "date": {
       "$date": "2019-01-02T14:19:02.755Z"
@@ -67,7 +67,7 @@
     "resume": "Queen are a British rock band",
     "text": "Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals) and John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.",
     "tags": ["rock"],
-    "related-links": ["https://en.wikipedia.org/wiki/Queen_(band)"],
+    "relatedlinks": ["https://en.wikipedia.org/wiki/Queen_(band)"],
     "author": "Mr. D.",
     "date": {
       "$date": "2021-01-02T14:19:02.755Z"
